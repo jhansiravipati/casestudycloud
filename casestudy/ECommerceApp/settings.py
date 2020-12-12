@@ -25,7 +25,7 @@ SECRET_KEY = 'pncii-es@&n!!d)kt5oy!6tgc4wr%+q*sn5hf^))s&2gz(^o8('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'testserver',]
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
